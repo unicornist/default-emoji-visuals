@@ -2,6 +2,8 @@
 
 How Emojis look with default font on different devices and browsers
 
+**Initial Manual Test Results:** https://www.browserstack.com/screenshots/3dca3e18766558eefba0a8977dab1b0f805d836c
+
 ## Source
 
 All fully-qualified emojis from:
